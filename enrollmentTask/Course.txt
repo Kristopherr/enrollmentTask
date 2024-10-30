@@ -1,0 +1,9 @@
+﻿1, 11, Web Development
+1, 12, Software Engineering
+1, 13, Cyber Security
+2, 21, Physics
+2, 22, Chemisty
+2, 23, Biology
+3, 31, Sports coaching and development
+3, 32, Health Fitness and Exercise
+3, 33, Sports Physiology
